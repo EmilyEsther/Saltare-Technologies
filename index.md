@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Break a leg, not your toe
 
-You can use the [editor on GitHub](https://github.com/EmilyEsther/Saltare-Technologies/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Over 50% of injuries reported by preprofessional ballet dancers occur in the ankle or toes. Many of these injuries are attributed to the stress put on the body by wearing pointe shoes. When dancing on pointe, it is critical for dancers to stay completely over the box of the pointe shoe. Balancing while leaning to either side or not completely getting over the box of the shoe will cause the shoe to irregularly break down which makes it impossible to maintain proper technique. The dance community needs technology where they can monitor the force distribution while a dancer performs combinations on pointe. This could be achieved by using a large pressure sensor mat large and sturdy enough where ballet dancers could perform sections of choreography and combinations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmilyEsther/Saltare-Technologies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What’s the benefit?
+  - Injury prevention
+  - Improved technique
+  - Real-time corrections
+  - Break bad habits BEFORE they become bad habits
